@@ -1,0 +1,18 @@
+.loder{
+overflow: hidden;
+background-color: #3498db;
+}
+.loder a{
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 12px;
+  font-size: 30px;
+}
+.loder a:hover {
+  background-color: #333;
+}
+
+body{
+  background-color: pink;
+}
